@@ -1,1 +1,5 @@
-# SD3-2da-entrega
+# Lab06: Proyecto 2da. entrega
+
+## Integrantes
+
+## Documentación
